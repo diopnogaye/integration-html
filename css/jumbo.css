@@ -1,0 +1,37 @@
+.jumbo .jumbo-text h1 {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.jumbo .jumbo-text p {
+    color: #FFFFFF;
+}
+.jumbo .jumbo-text button {
+    padding: 16px 24px;
+    background-color: #005680;
+    border: none;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+.jumbo .jumbo-texte {
+    justify-content: center;
+    text-align: center;
+}
+.jumbo .jumbo-texte h1 {
+    color: #FFFFFF;
+   font-size: 30px;
+    font-weight: bold;
+}
+.jumbo .jumbo-texte p {
+    color: #FFFFFF;
+    font-size: small;
+    font-family: serif;
+
+}
+.jumbo .jumbo-img {
+   
+    justify-content: baseline;
+    text-align: center;
+
+}

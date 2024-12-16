@@ -1,0 +1,79 @@
+.section-jumbo {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)),url(../images/background.png);
+    background-size: cover;
+    padding: 250px 0;
+}
+.section-light .image_text {
+    display: flex;
+    padding: 40px;
+    gap: 80px;
+
+
+}
+.image_text img {
+    width: 80%;
+}
+.chiffres {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+.chiffre h1 {
+    color: #005680;
+    font-weight: 800;
+    font-family: serif;
+    font-size: 30px;
+}
+.image_text .text h1 {
+    color: #00334D;
+}
+.section-section {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)),url(../images/pexels-rodnae-productions-8123815\ 1.png);
+    background-size: cover;
+    padding: 250px 0;
+
+
+}
+.missions {
+    background-color: #00334D;
+    width: 500px;
+    height: 250px;
+    justify-content: first baseline;
+   
+}
+.imges {
+    padding: 80px;
+    display: flex;
+    gap: 20px;
+    
+}
+.section-jumbos {
+    background: url(../images/pexels-pavel-danilyuk-8111895\ 1.png);
+    background-size: cover;
+    padding: 200px 0;
+    background-repeat: no-repeat;
+
+}
+.images3 {
+    display: flex;
+    gap: 20px;
+}
+
+
+.imgs-imgs-imgs {
+    display: flex;
+    gap: 20px;
+}
+.imgs-imgs-imgs button {
+    
+    padding: 16px 24px;
+    background-color: #005680;
+    border: none;
+    border-radius: 8px;
+    
+    
+}
+.img-button{
+    justify-content: center;
+    text-align: center;
+}
